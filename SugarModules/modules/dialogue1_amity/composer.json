@@ -1,0 +1,9 @@
+{
+  "name": "dialogue1/sugarcrm-plugin",
+  "type": "library",
+  "description": "API client for amity",
+  "license": "MIT",
+  "require": {
+    "dialogue1/amity-client": "1.x-dev"
+  }
+}
